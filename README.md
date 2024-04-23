@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rashmishehara
 - 👀 I’m interested in web development, software development, AI, photo editing, Graphic designs
-- 🌱 I’m currently learning Web development and Software Engineering
+- 🌱 I’m currently an undergraduate software engineering student.
 - 📫 How to reach me: rashmishehara99@gmail.com
 - ⚡ Fun fact: playing mobile and PC games and watching movies
 
